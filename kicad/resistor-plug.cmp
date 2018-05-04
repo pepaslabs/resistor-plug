@@ -1,3 +1,59 @@
-Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sun 29 Apr 2018 10:43:59 PM CDT
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Fri 04 May 2018 05:40:22 PM CDT
+
+BeginCmp
+TimeStamp = /5AECDDAC;
+Reference = P1;
+ValeurCmp = CONN_1X1;
+IdModule  = 1pin_056_079;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECDF0F;
+Reference = P2;
+ValeurCmp = CONN_1X1;
+IdModule  = 1pin_056_079;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECDF1B;
+Reference = P3;
+ValeurCmp = CONN_1X1;
+IdModule  = 1pin_056_079;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECDEF8;
+Reference = P4;
+ValeurCmp = CONN_1X1;
+IdModule  = 1pin_056_079;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECDF15;
+Reference = P5;
+ValeurCmp = CONN_1X1;
+IdModule  = 1pin_056_079;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECE132;
+Reference = P6;
+ValeurCmp = CONN_1X1;
+IdModule  = 1PIN_SMD_HIDDEN_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECDEDF;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R_BOX_HERMETIC_AXIAL_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AECDFC3;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R_AXIAL_WW_069A_075_PL;
+EndCmp
 
 EndListe
